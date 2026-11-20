@@ -1,5 +1,13 @@
 # Turtle QTS Research Engine
 
+<p align="left">
+  <img src="https://img.shields.io/badge/python-stdlib%20only-3776AB?logo=python&logoColor=white" alt="Python stdlib"/>
+  <img src="https://img.shields.io/badge/docs-12%20chapters-blue" alt="Docs"/>
+  <img src="https://img.shields.io/badge/type-research%20%2F%20backtesting-informational" alt="Research"/>
+</p>
+
+> Research companion to **[Turtle-QTS-Execution](https://github.com/vinp6789/Turtle-QTS-Execution)**. Zero third-party runtime dependencies (smaller supply-chain risk), a CLI, and a full documentation set: architecture, validation, known limitations, changelog, CLI reference and developer guide.
+
 ## Project Overview
 
 Turtle QTS Research Engine is a single-file Python backtesting and research
